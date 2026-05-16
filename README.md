@@ -1,8 +1,8 @@
-## # Hi 👋 I'm Subaran
+## # Hi I'm Subaran
 
-💻 Exploring AI, automation and developer tools  
-⚡ Building bots and experimenting with APIs  
-🚀 Learning new technologies every day
+ Exploring AI, automation and developer tools  
+ Building bots and experimenting with APIs  
+ Learning new technologies every day
 
 <!--
 **subaransarkar/subaransarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
